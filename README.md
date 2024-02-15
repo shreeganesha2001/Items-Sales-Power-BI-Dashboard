@@ -12,9 +12,9 @@ So join me on this journey of revealig the insights in the raw data.
 The four KPIs defines total sales, total profit, profit percentage of expenditure, average discount percentage per item.
 
 ### 2. Sales By Month and Year:
-Show![BI3](https://github.com/shreeganesha2001/Items-Sales-Power-BI-Dashboard/assets/136672046/2759909b-880d-4db1-b304-b98d279cab25)
+![BI3](https://github.com/shreeganesha2001/Items-Sales-Power-BI-Dashboard/assets/136672046/2759909b-880d-4db1-b304-b98d279cab25)
 
-shows the trend in the sales over a period.
+Shows the trend in the sales over a period.
 
 ### 3. Profit By Month and Year:
 ![BI5](https://github.com/shreeganesha2001/Items-Sales-Power-BI-Dashboard/assets/136672046/126c4203-b17e-4bbf-9095-7dea2ac57723)
