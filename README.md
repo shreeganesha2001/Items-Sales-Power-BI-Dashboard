@@ -1,7 +1,6 @@
 # US Regional Sales Dashboard In Power BI
 
-In a world digital teansactions and customer expectations are evolving rapidly, so understand the behaviour for customers the Power BI dashboard is created.
-So join me on this journey of revealig the insights in the raw data.
+In a world digital transactions and customer expectations are evolving rapidly, so understand the behaviour for customers the Power BI dashboard is created. So join me on this journey of revealig the insights in the raw data.
 ![BI1](https://github.com/shreeganesha2001/Items-Sales-Power-BI-Dashboard/assets/136672046/21ac19e1-c891-41f1-84ef-ace52477b31c)
 
 
